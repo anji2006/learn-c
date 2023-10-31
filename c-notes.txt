@@ -1,0 +1,35 @@
+
+What is C Programing language ?
+	
+  => C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.
+  => It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science.
+  => It is also knowns mother of other programming languages.
+  =>C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
+
+Why we need to learn C ??
+
+  =>It is one of the most popular programming language in the world
+  => If you know C, you will have no problem learning other popular programming languages such as Java, Python, C++, C#, etc, as the syntax is similar
+  => C is very fast, compared to other programming languages, like Java and Python
+  => C is very versatile; it can be used in both applications and technologies
+  => As this language is efficient and speed It is used many Operating System designs. Ex:- Windows, Linus ..
+  => It is also Known as mother of all other programming languagus.
+  
+  
+  
+Syntax for C programming ??
+	
+#include <stdio.h>
+
+int main() {
+  printf("Hello World!");
+  return 0;
+}
+
+ --> Always execution will start from main() function.
+ ---> #include <stdio.h>  This is used to inclue the header files to the program. This input output related header files.
+ --> printf() is function which is used to print the output in the console. it is function of <stdio.h> header file.
+ ---> { BLOCK_OF_CODE } here curly braces ({}) used to write code.
+ ---> main() function is always ends with return 0;
+
+
