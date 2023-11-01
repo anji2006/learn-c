@@ -27,7 +27,7 @@ int main() {
 }
 
  --> Always execution will start from main() function.
- ---> #include <stdio.h>  This is used to inclue the header files to the program. This input output related header files.
+ ---> #include <stdio.h>  This is used to inclue the header files to the program. This is input output related header files.
  --> printf() is function which is used to print the output in the console. it is function of <stdio.h> header file.
  ---> { BLOCK_OF_CODE } here curly braces ({}) used to write code.
  ---> main() function is always ends with return 0;
