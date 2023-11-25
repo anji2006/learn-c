@@ -1,0 +1,84 @@
+
+1) Which are the Applications of "C" Language ??
+
+        A) Operating Systems (Windows, linux , iOS, OSX)
+        B) Databases (MySQl , PostgreSQL, Oracle)
+        C) Embedded Systems
+        4) All of the above
+
+
+
+
+2) Which of the followin is correct syntax In "C" Language ??
+
+        A) #include <stdio.h>
+            char main(){
+                printf("Hellooo world\n");
+                printf("Hellloo Pottiiiiii");
+            }
+
+        B) #include <stdio.h>
+            int main(){
+                printf("Hellooo world\n");
+                printf("Hellloo Pottiiiiii");
+            }
+
+        c) #include <stdio.h>
+            void main(){
+                printf("Hellooo world\n");
+                printf("Hellloo Pottiiiiii");
+            }
+
+        D) All of the Above (as int, char , void are return type for main function)
+
+
+3) What will be the output for below "C" Program??
+
+    #include<stdio.h>
+
+    int main(){
+        printf("Hellow Thanu");
+        return 0;
+    }
+
+    A) Hellow Thanu
+    B) Hellow world
+    C) compile Error
+    4) None of the Above
+
+
+4) Is Below "C" Program is valid ??
+    #include<stdio.h>
+
+    int main(){
+        printf("Hellow Thanu") 
+        return 0;
+    }
+
+    A) True 
+    B) False (as semi colon is missing at end of the line)
+
+
+5) guess the outpu for below "C" Program ?
+
+    int main(){
+        printf("Hellow Thanu");
+        return 0;
+    }
+
+    A) compile Error 
+    B) printf => Not a built-in function (we need to add #include<stdio.h> at top)
+    C) missing including Input & Output library (#include<stdio.h>)
+    D) All of the Above
+    E) None of The Above
+
+
+6) Which of the following is correct varible Naming convensions in C ??
+
+    A) first name
+    B) first_name
+    C) _firstName
+    D) 1first_name
+    E) first@name 
+
+    Note :- More than one Answer is correct 
