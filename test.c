@@ -1,6 +1,10 @@
-// #include<stdio.h>
+#include<stdio.h>
 
 int main(){
-    printf("Hellow Anji");
+    
+    char name[] = "Thanu Sri";
+    size_t length_of_name = strlen(name);
+    printf("%zu", length_of_name);
+
     return 0;
 }

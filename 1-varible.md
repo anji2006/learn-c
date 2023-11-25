@@ -1,1 +1,13 @@
 ![Varibles](./material/introduction/variblesInC.png)
+![Varibles](./material/introduction/correctNaming.png)
+![Varibles](./material/introduction/correctNaming2.png)
+
+![Data Type](./material/introduction/dataTypesAll.png)
+![Data Type](./material/introduction/dataTypeInt.png)
+![Data Type](./material/introduction/dataTypeFloat.png)
+![Data Type](./material/introduction/dataTypeFloadRound.png)
+![Data Type](./material/introduction/dataTypeChar1.png)
+![Data Type](./material/introduction/dataTypeChar2.png)
+![Data Type](./material/introduction/dataTypeCharWithlineBreak.png)
+![Data Type](./material/introduction/dataTypeString.png)
+![Data Type](./material/introduction/dataTypeStringWithEscapeChar.png)

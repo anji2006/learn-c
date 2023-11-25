@@ -80,5 +80,54 @@
     C) _firstName
     D) 1first_name
     E) first@name 
+    D) int
+    F) first_int
 
-    Note :- More than one Answer is correct 
+    Note :- More than one Answer is correct (any doubt material/introduction/variblesInC.png)
+
+7) what will be the output for below C Program ??
+    #include<stdio.h>
+
+    int main(){
+        char your_name[] = "Thanu Sri";
+        printf("%s", your_name);
+        return 0;
+    }
+
+    A) Thanu Sri
+    A) thanu sri
+    B) your_name
+    C) "%s" 
+
+
+8) What will be the output for below C Program ?
+    #include<stdio.h>
+
+    int main(){
+        float length = 14.215356;
+        printf("%.2f", length);
+        return 0;
+    }
+
+    A) 14.215356
+    B) 14.21 (as It is round of to two decimal "%.2f")
+    C) 14.000
+    D) compile Error
+
+
+9) What is the output for Below program ??
+    #include<stdio.h>
+
+    int main(){
+        char your_name[] = "Thanu Sri";
+        
+        // Here is option 
+
+        return 0;
+    }
+
+    A) printf("%c", your_name[0]) is 'T' 
+    B) printf("%c", your_name[5]); is ' '
+    C) printf("%c", your_name[6]); is 'S'
+    D) All are correct (as we are accessing charecter by indexing refer dataTypeChar1.png)
+
