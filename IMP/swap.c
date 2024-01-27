@@ -4,7 +4,12 @@
 #include<stdio.h>
 
 int main(){
-    int a = 16 , b = 4;
+    int a , b ;
+
+    printf("Enter first number: ");
+    scanf("%d", &a);
+    printf("Enter second number: ");
+    scanf("%d", &b);
 
     printf("Before Swapping:- a = %d , b = %d \n", a, b);
 
