@@ -37,3 +37,11 @@ int main() {
 
     return 0;
 }
+
+
+/*
+    Input :-
+        Operator +
+        num1, mum2 12 13
+    Output 25
+*/
