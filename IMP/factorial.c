@@ -1,17 +1,17 @@
-// Print Sum of N numbers 
+// Print Factorial of N numbers 
 
 #include<stdio.h>
 
 int main(){
-    int n, Sum= 0;
+    int n, fact= 1;
     printf("Enter a Number:-");
     scanf("%d", &n);
 
     for (int i =1 ; i <= n; i++){
-        Sum += i;
+        fact *= i;
     }
 
-    printf("Sum of %d Numbers = %d \n", n, Sum);
+    printf("Factorial of %d = %d \n", n, fact);
 
     return 0;
 }
